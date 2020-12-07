@@ -212,6 +212,21 @@ public:
 
         cout <<"Select the number of seats you want to book..."<<endl;
         cin >> count;
+
+        if (coach=="3A"){
+            cout << "Total Amount : " << count*500 <<endl;
+        } else if (coach == "2A")
+            cout << "Total Amount : " << count*450 << endl;
+        else if (coach == "SL")
+            cout << "Total Amount : " << count*400 <<endl;
+        else if (coach == "2SL")
+            cout << "Total Amount : " << count*300 <<endl;
+        else if (coach == "3SL")
+            cout << "Total Amount : " << count*250 << endl;
+        else
+            cout << "Total Amount : " << count*200 << endl;
+
+
         show_booked_trains();
     }
 
@@ -238,7 +253,6 @@ public:
             }
         }
     }
-
 
 };
 int main(){
