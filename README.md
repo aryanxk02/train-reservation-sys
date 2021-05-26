@@ -30,7 +30,7 @@ of coaches available and seats booked.
 - Except the default C++ libraries, no other special or third party libraries were used.
 
 ## 4. Flowchart
-(https://user-images.githubusercontent.com/59761275/119744003-b0819e80-bea8-11eb-858e-48b36940d176.jpeg)
+![alt text](https://user-images.githubusercontent.com/59761275/119744003-b0819e80-bea8-11eb-858e-48b36940d176.jpeg)
 
 ## 4. Conclusion
 The given problem statement is solved. A train reservation system has been created in C++
