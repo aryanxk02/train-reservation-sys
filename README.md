@@ -38,4 +38,4 @@ using one of the fundamental data structures, the linked list. Operations like a
 trains and booking of trains can be done using the project.
 
 ## 5. References
-https://www.geeksforgeeks.org/data-structures/linked-list/![Train]
+https://www.geeksforgeeks.org/data-structures/linked-list/
